@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+#table-siswa {
+  border-collapse: collapse;
+}
+.link {
+  colur: red;
+  text-decoration: none;
+}
+img {
+  border-width: 10;
+  border-right: 10;
+  border-radius: 50%;
+  width: 50%;
+}

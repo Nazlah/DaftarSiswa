@@ -1,0 +1,17 @@
+#table-siswa {
+  border-collapse: collapse;
+  background: url(terbaik.jpeg);
+  background-size: 100%;
+  border-image-repeat: no-repeat;
+}
+.link {
+  color: rgb(31, 110, 110);
+  text-decoration: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: aquamarine;
+}
+#table-siswa h3 {
+  font-size: 32px;
+}

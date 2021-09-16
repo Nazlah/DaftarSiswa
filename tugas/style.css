@@ -1,0 +1,24 @@
+#wrapper {
+  width: 100%;
+  background: #81ecec;
+}
+#sidebarKiri {
+  width: 20%;
+  background: #ffeaa7;
+}
+#sidebarKanan {
+  width: 20%;
+  background-color: aqua;
+}
+#footer p {
+  text-align: center;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+}
